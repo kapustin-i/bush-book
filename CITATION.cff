@@ -1,0 +1,46 @@
+cff-version: 1.2.0
+message: "If you use this idea or text, please cite it as below."
+title: "The Bush Book: a consciously bilingual human–machine book"
+version: "0.1"
+license: CC-BY-4.0
+doi: "10.5281/zenodo.23042947"
+date-released: "2026-09-29"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.23042946"
+    description: "DOI of the book (all versions)"
+  - type: doi
+    value: "10.5281/zenodo.23042947"
+    description: "DOI of version 0.1"
+authors:
+  - family-names: Kapustin
+    given-names: Igor
+    orcid: "https://orcid.org/0009-0008-5665-9281"
+abstract: >-
+  Concept note and map of the bush, version 0.1. The text of our time is already
+  bilingual: living human words and computed machine words are woven together, and
+  both a person and a machine write and read it. The Bush Book is built on this
+  consciously: each chapter shows the seam between the two languages, carries a
+  passport for the machine reader, and records its sources and outflows as
+  machine-readable links. Written with Claude (Anthropic).
+keywords:
+  - human-AI co-writing
+  - hybrid text
+  - AI disclosure
+  - provenance
+  - networked book
+  - seam map
+  - machine-readable metadata
+repository-code: "https://github.com/kapustin-i/bush-book"
+preferred-citation:
+  type: generic
+  title: "The Bush Book: a consciously bilingual human–machine book. Concept note, version 0.1. Written with Claude (Anthropic)"
+  authors:
+    - family-names: Kapustin
+      given-names: Igor
+      orcid: "https://orcid.org/0009-0008-5665-9281"
+  year: 2026
+  version: "0.1"
+  doi: "10.5281/zenodo.23042947"
+  publisher:
+    name: Zenodo
