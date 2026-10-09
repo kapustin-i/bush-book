@@ -5,7 +5,7 @@ An essay from [The Bush Book](../../README.md) · version 1.0 · 2026 · DOI: [1
 *What matters is not the power or speed of new AI, but “First, do no harm” · Важна не мощь и не скорость новых ИИ, а «Не навреди»*
 
 Author: Igor Kapustin (ORCID [0009-0008-5665-9281](https://orcid.org/0009-0008-5665-9281)).
-AI that took part in writing this text: ChatGPT (OpenAI), Claude (Anthropic).
+AI that took part in writing this text: ChatGPT (OpenAI), Claude (Anthropic), DeepSeek.
 
 ## Read
 
@@ -26,7 +26,7 @@ The smarter the model, the harder it is to spot an error in its text. A hybrid t
 
 ## How to cite
 
-Kapustin, I. (2026). *The Second Generation of AI* (Второе поколение ИИ). An essay from The Bush Book, version 1.0. Written with ChatGPT and Claude. Zenodo. https://doi.org/10.5281/zenodo.23257293
+Kapustin, I. (2026). *The Second Generation of AI* (Второе поколение ИИ). An essay from The Bush Book, version 1.0. Written with ChatGPT, Claude and DeepSeek. Zenodo. https://doi.org/10.5281/zenodo.23257293
 
 ## Related
 

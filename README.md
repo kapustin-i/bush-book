@@ -16,7 +16,7 @@ The text of our time is already bilingual: living human words and computed machi
 The bush grows not in a line: works are placed by their links, not by number.
 
 - **1 · The Snake's Tongue · Язык змеи** — essay, v1.0, 2026 · DOI [10.5281/zenodo.23164404](https://doi.org/10.5281/zenodo.23164404) · [chapter folder](chapters/01-snakes-tongue/) · [English](chapters/01-snakes-tongue/the-snakes-tongue.md) · [Русский](chapters/01-snakes-tongue/yazyk-zmei.ru.md). Written with Claude, ChatGPT and Gemini.
-- **The Second Generation of AI · Второе поколение ИИ** — essay, v1.0, 2026 · DOI [10.5281/zenodo.23257293](https://doi.org/10.5281/zenodo.23257293) · [folder](chapters/second-generation-of-ai/) · [English](chapters/second-generation-of-ai/the-second-generation-of-ai.md) · [Русский](chapters/second-generation-of-ai/vtoroe-pokolenie-ii.ru.md). Grows out of The Snake's Tongue. Companion open specification: [Second-Generation AI](https://github.com/kapustin-i/second-generation-ai), DOI [10.5281/zenodo.23256580](https://doi.org/10.5281/zenodo.23256580). Written with ChatGPT and Claude.
+- **The Second Generation of AI · Второе поколение ИИ** — essay, v1.0, 2026 · DOI [10.5281/zenodo.23257293](https://doi.org/10.5281/zenodo.23257293) · [folder](chapters/second-generation-of-ai/) · [English](chapters/second-generation-of-ai/the-second-generation-of-ai.md) · [Русский](chapters/second-generation-of-ai/vtoroe-pokolenie-ii.ru.md). Grows out of The Snake's Tongue. Companion open specification: [Second-Generation AI](https://github.com/kapustin-i/second-generation-ai), DOI [10.5281/zenodo.23256580](https://doi.org/10.5281/zenodo.23256580). Written with ChatGPT, Claude and DeepSeek.
 
 ## Files
 
@@ -50,7 +50,7 @@ Practical line: [Second-Generation AI, open specification](https://github.com/ka
 
 Глава 1 — [«Язык змеи»](chapters/01-snakes-tongue/yazyk-zmei.ru.md), версия 1.0, DOI [10.5281/zenodo.23164404](https://doi.org/10.5281/zenodo.23164404). Написана с участием ИИ: Claude, ChatGPT и Gemini.
 
-[«Второе поколение ИИ»](chapters/second-generation-of-ai/vtoroe-pokolenie-ii.ru.md) — эссе, версия 1.0, DOI [10.5281/zenodo.23257293](https://doi.org/10.5281/zenodo.23257293); выросло из «Языка змеи». Открытая спецификация к нему — [«ИИ второго поколения»](https://github.com/kapustin-i/second-generation-ai), DOI [10.5281/zenodo.23256580](https://doi.org/10.5281/zenodo.23256580). Написано с участием ИИ: ChatGPT и Claude.
+[«Второе поколение ИИ»](chapters/second-generation-of-ai/vtoroe-pokolenie-ii.ru.md) — эссе, версия 1.0, DOI [10.5281/zenodo.23257293](https://doi.org/10.5281/zenodo.23257293); выросло из «Языка змеи». Открытая спецификация к нему — [«ИИ второго поколения»](https://github.com/kapustin-i/second-generation-ai), DOI [10.5281/zenodo.23256580](https://doi.org/10.5281/zenodo.23256580). Написано с участием ИИ: ChatGPT, Claude и DeepSeek.
 
 ## Author's other work
 
