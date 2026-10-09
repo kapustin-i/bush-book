@@ -13,7 +13,10 @@ The text of our time is already bilingual: living human words and computed machi
 
 ## Chapters
 
-1. **The Snake's Tongue · Язык змеи** — essay, v1.0, 2026 · DOI [10.5281/zenodo.23164404](https://doi.org/10.5281/zenodo.23164404) · [chapter folder](chapters/01-snakes-tongue/) · [English](chapters/01-snakes-tongue/the-snakes-tongue.md) · [Русский](chapters/01-snakes-tongue/yazyk-zmei.ru.md). Written with Claude, ChatGPT and Gemini.
+The bush grows not in a line: works are placed by their links, not by number.
+
+- **1 · The Snake's Tongue · Язык змеи** — essay, v1.0, 2026 · DOI [10.5281/zenodo.23164404](https://doi.org/10.5281/zenodo.23164404) · [chapter folder](chapters/01-snakes-tongue/) · [English](chapters/01-snakes-tongue/the-snakes-tongue.md) · [Русский](chapters/01-snakes-tongue/yazyk-zmei.ru.md). Written with Claude, ChatGPT and Gemini.
+- **The Second Generation of AI · Второе поколение ИИ** — essay, v1.0, 2026 · DOI [10.5281/zenodo.23257293](https://doi.org/10.5281/zenodo.23257293) · [folder](chapters/second-generation-of-ai/) · [English](chapters/second-generation-of-ai/the-second-generation-of-ai.md) · [Русский](chapters/second-generation-of-ai/vtoroe-pokolenie-ii.ru.md). Grows out of The Snake's Tongue. Companion open specification: [Second-Generation AI](https://github.com/kapustin-i/second-generation-ai), DOI [10.5281/zenodo.23256580](https://doi.org/10.5281/zenodo.23256580). Written with ChatGPT and Claude.
 
 ## Files
 
@@ -24,6 +27,7 @@ The text of our time is already bilingual: living human words and computed machi
 | [CITATION.cff](CITATION.cff) | How to cite (read by GitHub and Zenodo) |
 | LICENSE | CC BY 4.0 |
 | [chapters/01-snakes-tongue/](chapters/01-snakes-tongue/) | Chapter 1 · The Snake's Tongue · Язык змеи (EN/RU, Markdown and PDF) |
+| [chapters/second-generation-of-ai/](chapters/second-generation-of-ai/) | The Second Generation of AI · Второе поколение ИИ (EN/RU, Markdown and PDF) |
 
 ## Map of the bush, v0.1
 
@@ -36,13 +40,17 @@ Root: under the same words — two languages.
 5. Layer — future models learn from hybrid texts; see [The Blind Kittens](https://doi.org/10.5281/zenodo.22924768)
 6. School — seam literacy
 
-Practical line: [Conditions of Admission and Participation](https://doi.org/10.5281/zenodo.22924859) · [A Registry of Proto-Concepts](https://doi.org/10.5281/zenodo.22084328)
+Grown from the root: [The Second Generation of AI](chapters/second-generation-of-ai/) — first, do no harm: hybrid text, the human signature, AI generations defined by the harmlessness of the human–machine system.
+
+Practical line: [Second-Generation AI, open specification](https://github.com/kapustin-i/second-generation-ai) · [Conditions of Admission and Participation](https://doi.org/10.5281/zenodo.22924859) · [A Registry of Proto-Concepts](https://doi.org/10.5281/zenodo.22084328)
 
 ## Коротко по-русски
 
 Текст нашего времени уже двуязычен: в нём сплетены живые слова человека и вычисленные слова машины, а пишут и читают его двое — человек и машина. Книга-куст строится на этом сознательно: у каждой главы виден шов, есть паспорт для машины-читателя, записаны истоки и стоки. Книга растёт не поездом, а кустом: главы выходят сейчас как статьи — латентные главы книги, которая плетётся на ходу. Идея открыта: пользуйтесь, ссылаясь на автора (CC BY 4.0).
 
 Глава 1 — [«Язык змеи»](chapters/01-snakes-tongue/yazyk-zmei.ru.md), версия 1.0, DOI [10.5281/zenodo.23164404](https://doi.org/10.5281/zenodo.23164404). Написана с участием ИИ: Claude, ChatGPT и Gemini.
+
+[«Второе поколение ИИ»](chapters/second-generation-of-ai/vtoroe-pokolenie-ii.ru.md) — эссе, версия 1.0, DOI [10.5281/zenodo.23257293](https://doi.org/10.5281/zenodo.23257293); выросло из «Языка змеи». Открытая спецификация к нему — [«ИИ второго поколения»](https://github.com/kapustin-i/second-generation-ai), DOI [10.5281/zenodo.23256580](https://doi.org/10.5281/zenodo.23256580). Написано с участием ИИ: ChatGPT и Claude.
 
 ## Author's other work
 
