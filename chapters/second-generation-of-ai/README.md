@@ -16,6 +16,8 @@ AI that took part in writing this text: ChatGPT (OpenAI), Claude (Anthropic), De
 
 The Markdown texts and the PDFs are the same text. The PDFs are identical to the files on [Zenodo](https://doi.org/10.5281/zenodo.23257293).
 
+A short popular version in English, without references, is on LinkedIn: [The Second Generation of AI (short version)](https://www.linkedin.com/pulse/second-generation-ai-igor-kapustin-w2xaf). Короткая популярная версия на английском, без списка литературы, — в LinkedIn.
+
 ## In short
 
 The smarter the model, the harder it is to spot an error in its text. A hybrid text is written by a human and a machine — creators of different natures who only seem to speak one language; it is fast, scalable, instrumental, and its errors may be contagious for people and for future models. AI carries people beyond their own competence, often under time pressure. The essay proposes a different basis for AI generations: not power or speed, but whether the human and the machine, working as one system, do no harm. The first generation extends a person; the second extends and protects. The image is the generations of fighter aircraft: the pilot must come home. The idea is set out in testable form in the open specification [Second-Generation AI](https://github.com/kapustin-i/second-generation-ai).
