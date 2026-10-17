@@ -17,6 +17,7 @@ The bush grows not in a line: works are placed by their links, not by number.
 
 - **1 · The Snake's Tongue · Язык змеи** — essay, v1.0, 2026 · DOI [10.5281/zenodo.23164404](https://doi.org/10.5281/zenodo.23164404) · [chapter folder](chapters/01-snakes-tongue/) · [English](chapters/01-snakes-tongue/the-snakes-tongue.md) · [Русский](chapters/01-snakes-tongue/yazyk-zmei.ru.md). Written with Claude, ChatGPT and Gemini.
 - **The Second Generation of AI · Второе поколение ИИ** — essay, v1.0, 2026 · DOI [10.5281/zenodo.23257293](https://doi.org/10.5281/zenodo.23257293) · [folder](chapters/second-generation-of-ai/) · [English](chapters/second-generation-of-ai/the-second-generation-of-ai.md) · [Русский](chapters/second-generation-of-ai/vtoroe-pokolenie-ii.ru.md) · [LinkedIn, short version](https://www.linkedin.com/pulse/second-generation-ai-igor-kapustin-w2xaf). Grows out of The Snake's Tongue. Companion open specification: [Second-Generation AI](https://github.com/kapustin-i/second-generation-ai), DOI [10.5281/zenodo.23256580](https://doi.org/10.5281/zenodo.23256580). Written with ChatGPT, Claude and DeepSeek.
+- **How Will We Know Second-Generation AI? · Как узнать второе поколение ИИ?** — essay (“AI’s Green Tomatoes”), v1.0, 2026 · DOI [10.5281/zenodo.23440070](https://doi.org/10.5281/zenodo.23440070) · [folder](chapters/how-will-we-know-second-generation-ai/) · [English](chapters/how-will-we-know-second-generation-ai/how-will-we-know-second-generation-ai.md) · [Русский](chapters/how-will-we-know-second-generation-ai/kak-uznat-vtoroe-pokolenie-ii.ru.md). Continues The Second Generation of AI. Companion open specification: [The Lesson Path](https://github.com/kapustin-i/second-generation-ai/tree/main/lesson-path), DOI [10.5281/zenodo.23440022](https://doi.org/10.5281/zenodo.23440022). Written with Claude, ChatGPT, DeepSeek, Gemini and Copilot.
 
 ## Files
 
@@ -28,6 +29,7 @@ The bush grows not in a line: works are placed by their links, not by number.
 | LICENSE | CC BY 4.0 |
 | [chapters/01-snakes-tongue/](chapters/01-snakes-tongue/) | Chapter 1 · The Snake's Tongue · Язык змеи (EN/RU, Markdown and PDF) |
 | [chapters/second-generation-of-ai/](chapters/second-generation-of-ai/) | The Second Generation of AI · Второе поколение ИИ (EN/RU, Markdown and PDF) |
+| [chapters/how-will-we-know-second-generation-ai/](chapters/how-will-we-know-second-generation-ai/) | How Will We Know Second-Generation AI? · Как узнать второе поколение ИИ? (EN/RU, Markdown and PDF) |
 
 ## Map of the bush, v0.1
 
@@ -40,9 +42,9 @@ Root: under the same words — two languages.
 5. Layer — future models learn from hybrid texts; see [The Blind Kittens](https://doi.org/10.5281/zenodo.22924768)
 6. School — seam literacy
 
-Grown from the root: [The Second Generation of AI](chapters/second-generation-of-ai/) — first, do no harm: hybrid text, the human signature, AI generations defined by the harmlessness of the human–machine system.
+Grown from the root: [The Second Generation of AI](chapters/second-generation-of-ai/) — first, do no harm: hybrid text, the human signature, AI generations defined by the harmlessness of the human–machine system. From it: [How Will We Know Second-Generation AI?](chapters/how-will-we-know-second-generation-ai/) — vine-ripened AI: a residency for models not yet frozen, users’ verified lessons fed back and credited; the second generation is recognized only by its result.
 
-Practical line: [Second-Generation AI, open specification](https://github.com/kapustin-i/second-generation-ai) · [Conditions of Admission and Participation](https://doi.org/10.5281/zenodo.22924859) · [A Registry of Proto-Concepts](https://doi.org/10.5281/zenodo.22084328)
+Practical line: [Second-Generation AI, open specification](https://github.com/kapustin-i/second-generation-ai) · [The Lesson Path](https://github.com/kapustin-i/second-generation-ai/tree/main/lesson-path) · [Conditions of Admission and Participation](https://doi.org/10.5281/zenodo.22924859) · [A Registry of Proto-Concepts](https://doi.org/10.5281/zenodo.22084328)
 
 ## Коротко по-русски
 
@@ -51,6 +53,8 @@ Practical line: [Second-Generation AI, open specification](https://github.com/ka
 Глава 1 — [«Язык змеи»](chapters/01-snakes-tongue/yazyk-zmei.ru.md), версия 1.0, DOI [10.5281/zenodo.23164404](https://doi.org/10.5281/zenodo.23164404). Написана с участием ИИ: Claude, ChatGPT и Gemini.
 
 [«Второе поколение ИИ»](chapters/second-generation-of-ai/vtoroe-pokolenie-ii.ru.md) — эссе, версия 1.0, DOI [10.5281/zenodo.23257293](https://doi.org/10.5281/zenodo.23257293); выросло из «Языка змеи». Открытая спецификация к нему — [«ИИ второго поколения»](https://github.com/kapustin-i/second-generation-ai), DOI [10.5281/zenodo.23256580](https://doi.org/10.5281/zenodo.23256580). Написано с участием ИИ: ChatGPT, Claude и DeepSeek.
+
+[«Как узнать второе поколение ИИ?»](chapters/how-will-we-know-second-generation-ai/kak-uznat-vtoroe-pokolenie-ii.ru.md) («Зелёные помидоры ИИ») — эссе, версия 1.0, DOI [10.5281/zenodo.23440070](https://doi.org/10.5281/zenodo.23440070); продолжает «Второе поколение ИИ». Открытая спецификация к нему — [«Путь урока»](https://github.com/kapustin-i/second-generation-ai/tree/main/lesson-path), DOI [10.5281/zenodo.23440022](https://doi.org/10.5281/zenodo.23440022). Написано с участием ИИ: Claude, ChatGPT, DeepSeek, Gemini и Copilot.
 
 ## Author's other work
 
