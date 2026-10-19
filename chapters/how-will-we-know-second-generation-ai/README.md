@@ -16,6 +16,8 @@ AI that took part in writing and checking this text: Claude (Anthropic), ChatGPT
 
 The Markdown texts and the PDFs are the same text. The PDFs are identical to the files on [Zenodo](https://doi.org/10.5281/zenodo.23440070). The English edition is adapted for English-speaking readers rather than translated word for word; paragraphs and references match the Russian text one to one.
 
+A short popular version in English, without references, is on LinkedIn: [AI’s Green Tomatoes (short version)](https://www.linkedin.com/pulse/ais-green-tomatoes-igor-kapustin-aiamf). Короткая популярная версия на английском, без списка литературы, — в LinkedIn.
+
 ## In short
 
 Today’s AI models are picked green: grown in the lab, polished to please raters like tomatoes gassed to look ripe, then frozen and shipped. What users then correct and teach them in live work ripens only on their own “windowsills” or dissolves in one big common pot. The essay proposes the missing stage — a “residency” for models that are not yet frozen: selected specialists and attentive users act as mentors, their verified lessons are fed back into training, and their work is credited and paid or rewarded with perks. Power is one precondition, ripening on the vine is the second; but second-generation AI can be recognized only by its practical result — far fewer errors passing from drafts into the documents people act on (“First, do no harm”), measured by the hybrid survivability criterion. How a lesson travels from a person to the model is set out in the companion open specification [The Lesson Path](https://github.com/kapustin-i/second-generation-ai/tree/main/lesson-path).
