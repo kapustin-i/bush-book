@@ -15,6 +15,7 @@ The text of our time is already bilingual: living human words and computed machi
 
 The bush grows not in a line: works are placed by their links, not by number.
 
+- **Root essay · The AI Daisy: Loves Me? Loves Me Not? · Ромашка ИИ: любит? не любит?** — essay, v1.0, 2026 · DOI [10.5281/zenodo.23855990](https://doi.org/10.5281/zenodo.23855990) · [folder](chapters/the-ai-daisy/) · [English](chapters/the-ai-daisy/the-ai-daisy.md) · [Русский](chapters/the-ai-daisy/romashka-ii.ru.md). Three generations of AI — the Fortune-Teller, the Resident, the Chart Room — told apart by whom the machine learns from and whom it protects. Companion open specification: [The Map of a Step](https://github.com/kapustin-i/second-generation-ai/tree/main/map-of-a-step), DOI [10.5281/zenodo.23856698](https://doi.org/10.5281/zenodo.23856698). Written with the participation of Claude, ChatGPT and Mistral.
 - **1 · The Snake's Tongue · Язык змеи** — essay, v1.0, 2026 · DOI [10.5281/zenodo.23164404](https://doi.org/10.5281/zenodo.23164404) · [chapter folder](chapters/01-snakes-tongue/) · [English](chapters/01-snakes-tongue/the-snakes-tongue.md) · [Русский](chapters/01-snakes-tongue/yazyk-zmei.ru.md). Written with Claude, ChatGPT and Gemini.
 - **The Second Generation of AI · Второе поколение ИИ** — essay, v1.0, 2026 · DOI [10.5281/zenodo.23257293](https://doi.org/10.5281/zenodo.23257293) · [folder](chapters/second-generation-of-ai/) · [English](chapters/second-generation-of-ai/the-second-generation-of-ai.md) · [Русский](chapters/second-generation-of-ai/vtoroe-pokolenie-ii.ru.md) · [LinkedIn, short version](https://www.linkedin.com/pulse/second-generation-ai-igor-kapustin-w2xaf). Grows out of The Snake's Tongue. Companion open specification: [Second-Generation AI](https://github.com/kapustin-i/second-generation-ai), DOI [10.5281/zenodo.23256580](https://doi.org/10.5281/zenodo.23256580). Written with ChatGPT, Claude and DeepSeek.
 - **How Will We Know Second-Generation AI? · Как узнать второе поколение ИИ?** — essay (“AI’s Green Tomatoes”), v1.0, 2026 · DOI [10.5281/zenodo.23440070](https://doi.org/10.5281/zenodo.23440070) · [folder](chapters/how-will-we-know-second-generation-ai/) · [English](chapters/how-will-we-know-second-generation-ai/how-will-we-know-second-generation-ai.md) · [Русский](chapters/how-will-we-know-second-generation-ai/kak-uznat-vtoroe-pokolenie-ii.ru.md) · [LinkedIn, short version](https://www.linkedin.com/pulse/ais-green-tomatoes-igor-kapustin-aiamf). Continues The Second Generation of AI. Companion open specification: [The Lesson Path](https://github.com/kapustin-i/second-generation-ai/tree/main/lesson-path), DOI [10.5281/zenodo.23440022](https://doi.org/10.5281/zenodo.23440022). Written with Claude, ChatGPT, DeepSeek, Gemini and Copilot.
@@ -27,6 +28,7 @@ The bush grows not in a line: works are placed by their links, not by number.
 | [CONCEPT.ru.md](CONCEPT.ru.md) | Концептуальная записка, русский |
 | [CITATION.cff](CITATION.cff) | How to cite (read by GitHub and Zenodo) |
 | LICENSE | CC BY 4.0 |
+| [chapters/the-ai-daisy/](chapters/the-ai-daisy/) | Root essay · The AI Daisy · Ромашка ИИ (EN/RU, Markdown and PDF) |
 | [chapters/01-snakes-tongue/](chapters/01-snakes-tongue/) | Chapter 1 · The Snake's Tongue · Язык змеи (EN/RU, Markdown and PDF) |
 | [chapters/second-generation-of-ai/](chapters/second-generation-of-ai/) | The Second Generation of AI · Второе поколение ИИ (EN/RU, Markdown and PDF) |
 | [chapters/how-will-we-know-second-generation-ai/](chapters/how-will-we-know-second-generation-ai/) | How Will We Know Second-Generation AI? · Как узнать второе поколение ИИ? (EN/RU, Markdown and PDF) |
@@ -34,6 +36,8 @@ The bush grows not in a line: works are placed by their links, not by number.
 ## Map of the bush, v0.1
 
 Root: under the same words — two languages.
+
+Root essay: [The AI Daisy](chapters/the-ai-daisy/) — three generations of AI, told apart by whom the machine learns from and whom it protects; the road to the second and third runs through a channel by which outcomes come back from people.
 
 1. Word — ["The Snake's Tongue"](chapters/01-snakes-tongue/) (chapter 1, published)
 2. Conversation — ["The Snake's Tongue"](chapters/01-snakes-tongue/)
@@ -44,11 +48,13 @@ Root: under the same words — two languages.
 
 Grown from the root: [The Second Generation of AI](chapters/second-generation-of-ai/) — first, do no harm: hybrid text, the human signature, AI generations defined by the harmlessness of the human–machine system. From it: [How Will We Know Second-Generation AI?](chapters/how-will-we-know-second-generation-ai/) — vine-ripened AI: a residency for models not yet frozen, users’ verified lessons fed back and credited; the second generation is recognized only by its result.
 
-Practical line: [Second-Generation AI, open specification](https://github.com/kapustin-i/second-generation-ai) · [The Lesson Path](https://github.com/kapustin-i/second-generation-ai/tree/main/lesson-path) · [Conditions of Admission and Participation](https://doi.org/10.5281/zenodo.22924859) · [A Registry of Proto-Concepts](https://doi.org/10.5281/zenodo.22084328)
+Practical line: [Second-Generation AI, open specification](https://github.com/kapustin-i/second-generation-ai) · [The Lesson Path](https://github.com/kapustin-i/second-generation-ai/tree/main/lesson-path) · [The Map of a Step](https://github.com/kapustin-i/second-generation-ai/tree/main/map-of-a-step) · [Conditions of Admission and Participation](https://doi.org/10.5281/zenodo.22924859) · [A Registry of Proto-Concepts](https://doi.org/10.5281/zenodo.22084328)
 
 ## Коротко по-русски
 
 Текст нашего времени уже двуязычен: в нём сплетены живые слова человека и вычисленные слова машины, а пишут и читают его двое — человек и машина. Книга-куст строится на этом сознательно: у каждой главы виден шов, есть паспорт для машины-читателя, записаны истоки и стоки. Книга растёт не поездом, а кустом: главы выходят сейчас как статьи — латентные главы книги, которая плетётся на ходу. Идея открыта: пользуйтесь, ссылаясь на автора (CC BY 4.0).
+
+[«Ромашка ИИ: любит? не любит?»](chapters/the-ai-daisy/romashka-ii.ru.md) — корневое эссе «Книги-куста», версия 1.0, DOI [10.5281/zenodo.23855990](https://doi.org/10.5281/zenodo.23855990): три поколения ИИ — гадалка, ординатор, штурманская — различаются тем, у кого машина учится и кого бережёт. Открытая спецификация к нему — [«Карта шага»](https://github.com/kapustin-i/second-generation-ai/tree/main/map-of-a-step), DOI [10.5281/zenodo.23856698](https://doi.org/10.5281/zenodo.23856698). Написано при участии ИИ-помощников: Claude, ChatGPT, Mistral.
 
 Глава 1 — [«Язык змеи»](chapters/01-snakes-tongue/yazyk-zmei.ru.md), версия 1.0, DOI [10.5281/zenodo.23164404](https://doi.org/10.5281/zenodo.23164404). Написана с участием ИИ: Claude, ChatGPT и Gemini.
 
