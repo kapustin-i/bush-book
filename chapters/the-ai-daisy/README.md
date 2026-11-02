@@ -16,6 +16,8 @@ With the participation of AI assistants: Claude (Anthropic), ChatGPT (OpenAI), M
 
 The Markdown texts and the PDFs are the same text. The PDFs are identical to the files on [Zenodo](https://doi.org/10.5281/zenodo.23855990). Paragraphs and sources of the English and Russian texts match one to one.
 
+A short popular version in English, without references, is on LinkedIn: [The AI Daisy (short version)](https://www.linkedin.com/pulse/ai-daisy-loves-me-igor-kapustin-90kzf). Короткая популярная версия на английском, без списка литературы, — в LinkedIn.
+
 ## In short
 
 A girl pulls the petals off a daisy: “loves me? loves me not?” Today everyone has such a daisy in their phone: the petals are the machine’s answers. But fortune-telling never checks the petals against what actually happened, and so it never learns. The essay proposes to tell generations of AI apart not by power but by whom the machine learns from and whom it protects:
