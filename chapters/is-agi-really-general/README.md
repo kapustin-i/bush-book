@@ -14,13 +14,15 @@ Written with Claude (Anthropic). Reviews, edits and ideas — ChatGPT (OpenAI), 
 
 The Markdown texts and the PDFs are the same text. The PDFs are identical to the files on [Zenodo](https://doi.org/10.5281/zenodo.24502733). Paragraphs and sources of the English and Russian texts match one to one.
 
+Short version on LinkedIn (English): [Is AGI Really General?](https://www.linkedin.com/pulse/agi-really-general-igor-kapustin-0swuf)
+
 ## In short
 
 Everyone is waiting for AGI — a machine that passes any exam better than a person — and exams are exactly how it is going to be recognised. But good advice is tested not by an exam, but by what happens afterwards. And that is what the machine never finds out: a person gets advice, leaves, and does not come back to say how things turned out.
 
 The essay states the Law of Returned Outcomes: if advice cannot be checked at once, and only the person knows what it led to, then the usefulness of such advice from a machine cannot be confirmed until people tell how things actually turned out. Until then, advice that helped is indistinguishable from advice that was liked — and there is no way to make sure the advice does no harm.
 
-It distinguishes AGI‑1, the machine that passes the exams, from AGI‑2, a predictive machine able to foresee where its advice will lead. AGI‑2 will not appear by itself: its textbook can only be put together from people’s accounts of how things turned out, given with their consent — and collecting them has to start now, because lost time cannot be bought back. The word “law” is the author’s own; by a strict measure it is a principle, offered to be tested or refuted.
+It distinguishes AGI‑1, the machine that passes the exams, from AGI‑2, a prognostic machine able to foresee where its advice will lead. AGI‑2 will not appear by itself: its textbook can only be put together from people’s accounts of how things turned out, given with their consent — and collecting them has to start now, because lost time cannot be bought back. The word “law” is the author’s own; by a strict measure it is a principle, offered to be tested or refuted.
 
 ## Коротко
 
